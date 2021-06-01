@@ -1,2 +1,4 @@
 Hola me llamo Italo
-mi correo es italolopez@gmail.com y mi numero es 999631573.
+mi correo es italolopez@gmail.com.
+
+Tiene 21 años.
